@@ -23,5 +23,6 @@
     "logfmt": "~0.17.0",
     "express": "~3.4.7",
     "cheerio": "~0.12.4"
-  }
+  },
+  "devDependencies": {}
 }
