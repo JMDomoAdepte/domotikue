@@ -1,0 +1,27 @@
+{
+  "name": "Domotikue",
+  "version": "0.0.0",
+  "description": "Premier json pour me lancer",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JMDomoAdepte/domotikue.git"
+  },
+  "keywords": [
+    "domotique"
+  ],
+  "author": "JM",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/JMDomoAdepte/domotikue/issues"
+  },
+  "homepage": "https://github.com/JMDomoAdepte/domotikue",
+  "dependencies": {
+    "logfmt": "~0.17.0",
+    "express": "~3.4.7",
+    "cheerio": "~0.12.4"
+  }
+}
