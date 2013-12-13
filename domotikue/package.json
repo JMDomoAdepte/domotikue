@@ -1,0 +1,26 @@
+{
+  "name": "Domotikue",
+  "version": "0.0.0",
+  "description": "Premier json pour me lancer mais déjà un souci",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JMDomoAdepte/domotikue.git"
+  },
+  "keywords": [
+    "domotique",
+    "heroku"
+  ],
+  "author": "jm",
+  "license": "Non",
+  "bugs": {
+    "url": "https://github.com/jane-doe/node-example/issues"
+  },
+  "dependencies": {
+    "cheerio": "~0.12.4",
+    "express": "~3.4.7"
+  }
+}
