@@ -1,7 +1,7 @@
 {
   "name": "Domotikue",
   "version": "0.0.0",
-  "description": "Premier json pour me lancer",
+  "description": "Premier json pour me lancer mais déjà un souci",
   "main": "web.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
