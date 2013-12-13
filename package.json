@@ -1,5 +1,5 @@
 {
-  "name": "Domotik",
+  "name": "Domotikue",
   "version": "0.0.0",
   "description": "Premier json pour me lancer mais déjà un souci",
   "main": "web.js",
@@ -11,17 +11,16 @@
     "url": "https://github.com/JMDomoAdepte/domotikue.git"
   },
   "keywords": [
-    "domotique"
+    "domotique",
+    "heroku"
   ],
-  "author": "JM",
-  "license": "BSD-2-Clause",
+  "author": "jm",
+  "license": "Non",
   "bugs": {
-    "url": "https://github.com/JMDomoAdepte/domotikue/issues"
+    "url": "https://github.com/jane-doe/node-example/issues"
   },
-  "homepage": "https://github.com/JMDomoAdepte/domotikue",
   "dependencies": {
-    "logfmt": "~0.17.0",
-    "express": "~3.4.7",
-    "cheerio": "~0.12.4"
-  },
+    "cheerio": "~0.12.4",
+    "express": "~3.4.7"
+  }
 }
